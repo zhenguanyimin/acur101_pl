@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"bd_adb7": {
+			"proto_instances": {
+			}
+		}
+	}
+}
